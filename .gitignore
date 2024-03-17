@@ -1,0 +1,4 @@
+venv/
+Loch/instance/loch.db
+**/__pycache__/
+Loch/.env
