@@ -1,7 +1,7 @@
 
 Steps for running project :-  
 Step 1:  git clone https://github.com/coderrohanpahwa/loch-test.git  
-Step 2: cd lochtest  
+Step 2: cd loch-test  
 Step 3: python -m venv venv # making virtual environment  
 Step 4: source venv/bin/activate # Activating Virtual Environment  
 Step 5: pip install -r requirements.txt  # Installing all dependencies  
