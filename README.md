@@ -6,7 +6,7 @@ Step 3: python -m venv venv # making virtual environment
 Step 4: source venv/bin/activate # Activating Virtual Environment  
 Step 5: pip install -r requirements.txt  # Installing all dependencies  
 Step 6: cd Loch  
-Step 7: Copy .env file sent over email and paste it here.   
+Step 7: Make a file name .env and copy env file sent over email and paste it in .env file.   
 Step 8: python app.py   
   
 
