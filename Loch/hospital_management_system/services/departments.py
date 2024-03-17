@@ -9,6 +9,7 @@ class DepartmentService:
             department=DepartmentModel(**data_dict)
             department.save()
             status=1
+            data=department.to_json()
             message="Department has been created successfully"
         except exc.IntegrityError:
             err="Department Name already exists"
